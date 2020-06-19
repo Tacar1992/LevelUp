@@ -1,3 +1,5 @@
+package Homework2;
+
 import javax.crypto.spec.PSource;
 import java.util.Scanner;
 

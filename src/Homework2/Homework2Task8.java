@@ -1,3 +1,5 @@
+package Homework2;
+
 public class Homework2Task8
 {
     public static void main(String[] args)

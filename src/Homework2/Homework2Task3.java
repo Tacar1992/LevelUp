@@ -1,3 +1,5 @@
+package Homework2;
+
 import java.util.Random;
 
 public class Homework2Task3
